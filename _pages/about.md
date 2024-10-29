@@ -24,31 +24,32 @@ I’m currently pursuing my Ph.D. degree in transportation engineering, guided b
 - *202401*  &nbsp; We present our poster on "Modeling Social Interaction Behaviors and Measuring Driving Sociality in Strong Interactive Scenarios" at 2024 Transportation Research Board Annual Meeting.
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ITSC 2024</div><img src='images/ITSC2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Towards Interactive Autonomous Vehicle Testing: Vehicle-Under-Test-Centered Traffic Simulation](https://arxiv.org/html/2406.02860v1)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yiru Liu**, [Xiaocong Zhao\*](https://zxc-tju.github.io/), [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- This study introduces an Vehicle-under-test-Centered environmental Dynamics Inference (VCDI) model for realistic, interactive, and diverse background traffic simulation.
+
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ITS 2024</div><img src='images/TITS2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Sociality Probe: Game-Theoretic Inverse Reinforcement Learning for Modeling and Quantifying Social Patterns in Driving Interaction]([https://arxiv.org/html/2406.02860v1](https://ieeexplore.ieee.org/abstract/document/10693867))
+
+**Yiru Liu**, [Xiaocong Zhao\*](https://zxc-tju.github.io/), [Ye Tian\*](https://tops.tongji.edu.cn/info/1031/1185.htm), [Jian Sun](https://tops.tongji.edu.cn/info/1031/1187.htm)
+
+- This research proposes a Game-Theoretic Inverse Reinforcement Learning (GT-IRL) approach to quantify individualized sociality in driving interactions. Additionally, it reveals patterns of sociality across various scenarios, regions, and individuals, providing valuable insights into human-machine interactions.
+
+</div>
+</div>
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08 - now*, **Ph.D. in Transportation Engineering**, Tongji University, Shanghai.
+- *2020.08 - 2023.06*, **Master's Degree in Transportation Engineering**, Tongji University, Shanghai. 
+- *2016.08 - 2020.06*, **Bachelor's Degree in Mechanical and Electronic Engineering**, China Agricultural University, Beijing. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
