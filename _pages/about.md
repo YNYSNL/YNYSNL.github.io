@@ -36,7 +36,7 @@ I’m currently pursuing my Ph.D. degree in transportation engineering, guided b
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ITS 2024</div><img src='images/TITS2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/TITS2024.png' alt="sym" width="100%"><div><div class="badge">IEEE T-ITS 2024</div></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sociality Probe: Game-Theoretic Inverse Reinforcement Learning for Modeling and Quantifying Social Patterns in Driving Interaction]([https://arxiv.org/html/2406.02860v1](https://ieeexplore.ieee.org/abstract/document/10693867))
